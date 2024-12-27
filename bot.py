@@ -39,7 +39,7 @@ async def approve(client, message):
     await msg.delete()
 
 
-logging.info("Bot Started....")
+logging.info("Bot Started.... lol")
 User.run()
 
 
